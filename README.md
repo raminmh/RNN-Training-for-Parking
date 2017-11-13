@@ -11,5 +11,10 @@ TrainingTDNN.m trains a TDNN network
 SimParking.slx contains neural net models that are already trained and can be tested for their accuracy. 
 
 
+supervise_data folder, contains data you need to train for the lstm cells. 
+
+lstm_parking.py contains a Keras implementation with a TensorFlow backend for LSTM networks. 
+
+
 
 
